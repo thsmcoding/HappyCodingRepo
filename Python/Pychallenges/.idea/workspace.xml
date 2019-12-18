@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c736ab9f-a0ce-47f2-a2c5-7e27d931bc50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Python Unit Test" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnWC91Z0QmGBSsNbQQITxpMbOh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="/opt" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in superstringtest.py">
+    <configuration name="superstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pychallenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChallengeModule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChallengeModule/superstring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for superstringtest.MyTestSuperString.test_superreducingstring" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Pychallenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unittests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;superstringtest.MyTestSuperString.test_superreducingstring&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.MyTestSolution.test_functionpairs" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Pychallenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unittests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.MyTestSolution.test_functionpairs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in superstringtest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Pychallenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unittests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Unittests/superstringtest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Pychallenges" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unittests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Unittests/tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in superstringtest.py" />
+        <item itemvalue="Python tests.Unittests for superstringtest.MyTestSuperString.test_superreducingstring" />
+        <item itemvalue="Python.superstring" />
+        <item itemvalue="Python tests.Unittests in tests.py" />
+        <item itemvalue="Python tests.Unittests for tests.MyTestSolution.test_functionpairs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c736ab9f-a0ce-47f2-a2c5-7e27d931bc50" name="Default Changelist" comment="" />
+      <created>1575992709759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575992709759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="67" y="27" width="723" height="573" key="#Updates" timestamp="1575994466864">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="67" y="27" width="723" height="573" key="#Updates/67.27.733.573@67.27.733.573" timestamp="1575994466864" />
+    <state x="67" y="27" width="723" height="573" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575995159009">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="67" y="27" width="723" height="573" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.733.573@67.27.733.573" timestamp="1575995159009" />
+    <state x="167" y="125" width="533" height="375" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1576591919706">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="167" y="125" width="533" height="375" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/67.27.733.573@67.27.733.573" timestamp="1576591919706" />
+    <state x="131" y="118" width="595" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575993168596">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="131" y="118" width="595" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.733.573@67.27.733.573" timestamp="1575993168596" />
+    <state x="166" y="61" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576671761336">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="166" y="61" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.733.573@67.27.733.573" timestamp="1576671761336" />
+    <state x="257" y="27" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576067135357">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="257" y="27" width="424" height="484" key="FileChooserDialogImpl/67.27.733.573@67.27.733.573" timestamp="1576067135357" />
+    <state width="710" height="128" key="GridCell.Tab.0.bottom" timestamp="1576671788522">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="710" height="128" key="GridCell.Tab.0.bottom/67.27.733.573@67.27.733.573" timestamp="1576671788522" />
+    <state width="710" height="128" key="GridCell.Tab.0.center" timestamp="1576671788521">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="710" height="128" key="GridCell.Tab.0.center/67.27.733.573@67.27.733.573" timestamp="1576671788521" />
+    <state width="710" height="128" key="GridCell.Tab.0.left" timestamp="1576671788521">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="710" height="128" key="GridCell.Tab.0.left/67.27.733.573@67.27.733.573" timestamp="1576671788521" />
+    <state width="710" height="128" key="GridCell.Tab.0.right" timestamp="1576671788521">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="710" height="128" key="GridCell.Tab.0.right/67.27.733.573@67.27.733.573" timestamp="1576671788521" />
+    <state x="67" y="27" key="SettingsEditor" timestamp="1575997169603">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="67" y="27" key="SettingsEditor/67.27.733.573@67.27.733.573" timestamp="1575997169603" />
+    <state x="89" y="141" key="com.intellij.ide.util.TipDialog" timestamp="1576580058677">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="89" y="141" key="com.intellij.ide.util.TipDialog/67.27.733.573@67.27.733.573" timestamp="1576580058677" />
+    <state x="96" y="26" key="search.everywhere.popup" timestamp="1575994471491">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="96" y="26" key="search.everywhere.popup/67.27.733.573@67.27.733.573" timestamp="1575994471491" />
+  </component>
+</project>
